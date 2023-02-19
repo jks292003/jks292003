@@ -1,6 +1,6 @@
 - 👋 Hi, I’m sanjay
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jks2003@gmail.com
 
